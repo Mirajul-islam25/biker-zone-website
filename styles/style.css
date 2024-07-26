@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.poppins-font {
+      font-family: "Poppins", sans-serif;
+      font-weight: 700;
+      font-style: normal;
+}
+
+body {
+      margin: 0;
+      padding: 0;
+}
+
+/* nav start style */
+nav {
+      display: flex;
+      align-items: center;
+      justify-content: end;
+      padding-top: 40px;
+      padding-right: 100px;
+      margin-bottom: 40px;
+}
+
+nav ul li {
+
+      list-style-type: none;
+      display: inline-block;
+      align-items: end;
+      justify-content: end;
+      margin-left: 30px;
+}
+
+nav ul li a {
+      color: #ffffff;
+      text-decoration: none;
+      align-items: end;
+      justify-content: end;
+
+}
+
+/* nav end style */
+/* header start style */
+header {
+      background-color: #264653;
+      margin-top: -20px;
+}
+
+.header-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      padding-bottom: 60px;
+}
+
+.header-para1 {
+      color: #ffffff;
+      font-size: 12px;
+      font-weight: 500;
+}
+
+.header-heading {
+      color: #ffffff;
+      font-size: 48px;
+      font-weight: 600;
+      margin-bottom: -8px;
+      margin-top: -15px;
+}
+
+.header-para2 {
+      color: #E0E0E0;
+      font-size: 16px;
+      font-weight: 600;
+
+}
+
+.btn-primary {
+      color: #ffffff;
+      background-color: #E76F51;
+      padding: 10px 46px;
+      border-radius: 10px;
+      border: none;
+}
+
+/* header end style */
+/* main start style */
+/* first section */
+.first-content {
+      text-align: center;
+      margin-top: 80px;
+      margin-bottom: 80px;
+}
+
+.first-heading {
+      font-size: 48px;
+      font-weight: 500;
+      margin-bottom: -10px;
+}
+
+.first-para {
+      color: #E76F51;
+      font-size: 14px;
+      font-weight: 400;
+      margin-bottom: -7px;
+}
+
+hr {
+      background-color: #E76F51;
+      width: 80px;
+}
+
+.first-images {
+      display: flex;
+      justify-content: space-evenly;
+}
+
+.feature-bike {
+      width: 288px;
+      height: 243px;
+}
+
+/* second section */
+.second-sec {
+      margin-top: 100px;
+}
+
+.second-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+}
+
+.second-content {
+      border: 1px solid #6C6C6C;
+      padding: 20px;
+      border-radius: 10px;
+}
+
+.second-text {
+      font-size: 48px;
+      font-weight: 500;
+      text-align: center;
+}
+
+.second-img {
+      width: 337px;
+      height: 256px;
+}
+
+.second-heading {
+      font-size: 28px;
+      font-weight: 500;
+}
+
+.second-para {
+      color: #6C6C6C;
+      font-size: 14px;
+}
+
+/* main end style */
+/* footer start style */
+/* footer end style */
