@@ -131,7 +131,7 @@ hr {
 }
 
 .second-content {
-      border: 1px solid #6C6C6C;
+      border: 1px solid #cec9c9;
       padding: 20px;
       border-radius: 10px;
 }
@@ -155,6 +155,54 @@ hr {
 .second-para {
       color: #6C6C6C;
       font-size: 14px;
+}
+
+/* third section */
+.third-sec {
+      margin-top: 100px;
+}
+
+.third-heading {
+      text-align: center;
+      font-size: 48px;
+      font-weight: 500;
+}
+
+.color {
+      color: #E76F51;
+}
+
+.third-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 40px;
+}
+
+.third-title {
+      border: 1px solid #cec9c9;
+      padding: 20px;
+      text-align: center;
+
+
+}
+
+.third-para {
+      color: #6C6C6C;
+}
+
+.head {
+      color: #23A6F0;
+}
+
+
+.user {
+      width: 149px;
+      height: 149px;
+}
+
+.star-solid {
+      width: 20px;
 }
 
 /* main end style */
