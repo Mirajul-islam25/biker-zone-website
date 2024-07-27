@@ -205,6 +205,37 @@ hr {
       width: 20px;
 }
 
+/* fourth section */
+.fourth-sec {
+      margin-top: 120px;
+      margin-bottom: 120px;
+}
+
+.fourth-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 50px;
+}
+
+.fourth-container {
+      color: #6C6C6C;
+      border: 1px solid;
+      margin-bottom: 10px;
+      padding: 5px 20px;
+}
+
+.fourth-images {
+      height: 495px;
+      width: 446px;
+}
+
+.fourth-heading {
+      color: #000;
+      font-size: 20px;
+      font-weight: 400;
+}
+
 /* main end style */
 /* footer start style */
 /* footer end style */
