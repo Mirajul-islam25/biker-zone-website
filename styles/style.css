@@ -183,6 +183,7 @@ hr {
       border: 1px solid #cec9c9;
       padding: 20px;
       text-align: center;
+      border-radius: 10px;
 
 
 }
@@ -223,6 +224,7 @@ hr {
       border: 1px solid;
       margin-bottom: 10px;
       padding: 5px 20px;
+      border-radius: 10px;
 }
 
 .fourth-images {
@@ -238,4 +240,49 @@ hr {
 
 /* main end style */
 /* footer start style */
+.footer-container {
+      background-color: #000;
+      padding-top: 80px;
+      padding-bottom: 100px;
+}
+
+.footer-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+}
+
+.footer-nav {
+      align-items: center;
+      justify-content: flex-start;
+}
+
+.footer-navbar {
+      align-items: center;
+      justify-content: flex-start;
+      margin-top: -50px;
+      margin-bottom: -0px;
+}
+
+nav a {
+      color: #ffffff;
+      text-decoration: none;
+      margin-left: 20px;
+}
+
+.footer-heading {
+      color: #D9DBE1;
+      margin-left: 20px;
+}
+
+.footer-img {
+      height: 40px;
+      width: 135px;
+}
+
+.footer-title {
+      color: #D9DBE1;
+      margin-right: 100px;
+}
+
 /* footer end style */
